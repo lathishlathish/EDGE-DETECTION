@@ -116,6 +116,7 @@ plt.show()
 
 
 **SOBEL Y AXIS :**
+
 ![image](https://github.com/lathishlathish/EDGE-DETECTION/assets/120359170/6d5a8104-4c96-43ac-8fca-630d2e6761a3)
 
 
